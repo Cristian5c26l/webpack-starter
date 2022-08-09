@@ -11,10 +11,10 @@ export const saludar = ( nombre ) => {
     // Img
 
     //console.log( webpacklogo );
-    const img = document.createElement('img');
-    img.src = '../assets/img/webpack-logo.png';
+    //const img = document.createElement('img');
+    //img.src = '../assets/img/webpack-logo.png';
 
-    document.body.append(img);
+    //document.body.append(img);
 }
 
 // cosas no exportadas solo funcionan en este archivo
